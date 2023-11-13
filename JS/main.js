@@ -24,18 +24,3 @@ product.price = 0.95;
 console.log("Productnaam ", product.title);
 console.log("Prijs ", product.price);
 
-const product = {
-    title: "Choco vlokken",
-    price: 1.95,
-    image: "dwarf.jpg",
-},
-    {
-        title: "Chocopasta",
-        price: 2.00,
-        image: "dwarf.jpg",
-    },
-    {
-        title: "Choco vlokken",
-        price: 1.95,
-        image: "dwarf.jpg",
-    },
