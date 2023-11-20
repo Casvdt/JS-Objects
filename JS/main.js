@@ -94,3 +94,6 @@ let Porsche = {
 
 console.log(Porsche);
 
+// opdracht 5
+
+
